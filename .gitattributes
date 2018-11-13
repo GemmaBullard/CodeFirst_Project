@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <h1>Really Good Food!</h1>
+    <h1>Really Good Food</h1>
 
     <style>
       ul.nav li {
@@ -25,7 +25,7 @@
       <li><a href="information">About Us</a></li>
     </ul>
 
-    <img
+    <img src="https://cdn.mapsinternational.co.uk/pub/media/catalog/product/cache/afad95d7734d2fa6d0a8ba78597182b7/w/o/world-wall-map-political-without-flags_wm00001_h.jpg" alt="The World Map" style="width:800px;height:500px">
   </body>
 
 </html>
