@@ -1,2 +1,31 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <h1>Really Good Food!</h1>
+
+    <style>
+      ul.nav li {
+        display: inline-block
+        padding-right: 10px;
+        background: purple;
+      }
+      ul.nav li a {
+        color: white
+      }
+    </style>
+  </head>
+
+  <body>
+    <ul class="navigation">
+      <li><a href="#map">Home</a></li>
+      <li><a href="#recipes">The Best Recipes</a></li>
+      <li><a href="information">About Us</a></li>
+    </ul>
+
+    <img
+  </body>
+
+</html>
